@@ -1,0 +1,7 @@
+#Sun Sep 25 13:01:16 EEST 2016
+base.0=D\:\\Workspace\\Android\\ProAndroid5\\DialogFragmentDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7b1ed26556ff0d1892e416ecb9060e3868e7ab22
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Workspace\\Android\\ProAndroid5\\DialogFragmentDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ad443723f56f8636796525d141075178a975a16c\\classes.dex
+base.1=D\:\\Workspace\\Android\\ProAndroid5\\DialogFragmentDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ad443723f56f8636796525d141075178a975a16c
+file.0=D\:\\Workspace\\Android\\ProAndroid5\\DialogFragmentDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7b1ed26556ff0d1892e416ecb9060e3868e7ab22\\classes.dex
