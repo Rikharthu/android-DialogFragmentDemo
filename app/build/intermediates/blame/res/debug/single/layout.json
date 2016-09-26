@@ -1,7 +1,19 @@
 [
     {
+        "merged": "C:\\Workspace\\Android\\Samples\\android-DialogFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\prompt_dialog.xml",
+        "source": "C:\\Workspace\\Android\\Samples\\android-DialogFragmentDemo\\app\\src\\main\\res\\layout\\prompt_dialog.xml"
+    },
+    {
         "merged": "D:\\Workspace\\Android\\ProAndroid5\\DialogFragmentDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
         "source": "D:\\Workspace\\Android\\ProAndroid5\\DialogFragmentDemo1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\Android\\Samples\\android-DialogFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_signin.xml",
+        "source": "C:\\Workspace\\Android\\Samples\\android-DialogFragmentDemo\\app\\src\\main\\res\\layout\\dialog_signin.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\Android\\Samples\\android-DialogFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help_dialog.xml",
+        "source": "C:\\Workspace\\Android\\Samples\\android-DialogFragmentDemo\\app\\src\\main\\res\\layout\\help_dialog.xml"
     },
     {
         "merged": "D:\\Workspace\\Android\\ProAndroid5\\DialogFragmentDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help_dialog.xml",
@@ -10,5 +22,9 @@
     {
         "merged": "D:\\Workspace\\Android\\ProAndroid5\\DialogFragmentDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\prompt_dialog.xml",
         "source": "D:\\Workspace\\Android\\ProAndroid5\\DialogFragmentDemo1\\app\\src\\main\\res\\layout\\prompt_dialog.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\Android\\Samples\\android-DialogFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Workspace\\Android\\Samples\\android-DialogFragmentDemo\\app\\src\\main\\res\\layout\\main.xml"
     }
 ]

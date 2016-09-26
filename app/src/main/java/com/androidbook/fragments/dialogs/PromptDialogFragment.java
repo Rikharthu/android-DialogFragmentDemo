@@ -93,6 +93,7 @@ implements View.OnClickListener
 
     public void onClick(View v) 
 	{
+		// FIXME zachem zdes eshe raz?
 		OnDialogDoneListener act = (OnDialogDoneListener)getActivity();
 		if (v.getId() == R.id.btn_save)
 		{

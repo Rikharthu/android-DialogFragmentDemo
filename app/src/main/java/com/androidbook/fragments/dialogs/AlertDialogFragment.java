@@ -10,6 +10,8 @@ import android.util.Log;
 
 public class AlertDialogFragment extends DialogFragment implements DialogInterface.OnClickListener
 {
+
+	/** Use this method to pass required parameters instead of constructor*/
 	public static AlertDialogFragment newInstance(String message)
 	{
 		AlertDialogFragment adf = new AlertDialogFragment();

@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">logo</string>
+    <string name="cancel">Cancel</string>
     <string name="help1">
 Here is more help text that could be displayed to the user in
 a dialog. When the user clicks the Close button, the previous
@@ -21,4 +23,7 @@ orientation using Ctrl+F11 to see if
 the dialogs work when the device is
 rotated.
 </string>
+    <string name="password">Password</string>
+    <string name="signin">Sign In</string>
+    <string name="username">Username</string>
 </resources>

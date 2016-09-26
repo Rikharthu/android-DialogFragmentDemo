@@ -4,27 +4,48 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="678479361494776"
+    timestamp="18722566120962"
     token="2696715928570356215"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="655" />
+        duration="324" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="507" />
     <task
         name="instant-run-transform"
-        duration="169" />
+        duration="102" />
     <task
         name="verifier"
-        duration="22" />
+        duration="9" />
 
     <artifact
-        location="D:\Workspace\Android\ProAndroid5\DialogFragmentDemo1\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="C:\Workspace\Android\Samples\android-DialogFragmentDemo\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
 
+    <build
+        timestamp="17967809993854"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Workspace\Android\Samples\android-DialogFragmentDemo\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="18625983052927"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Workspace\Android\Samples\android-DialogFragmentDemo\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+    <build
+        timestamp="18641382208571"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Workspace\Android\Samples\android-DialogFragmentDemo\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+    </build>
     <build
         timestamp="678479361494776"
         verifier="FULL_BUILD_REQUESTED" >

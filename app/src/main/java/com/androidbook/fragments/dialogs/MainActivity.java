@@ -2,6 +2,7 @@ package com.androidbook.fragments.dialogs;
 
 // This file is MainActivity.java
 import android.app.Activity;
+import android.app.DialogFragment;
 import android.app.FragmentTransaction;
 import android.os.Bundle;
 import android.util.Log;
@@ -11,7 +12,7 @@ import android.view.MenuItem;
 import android.widget.Toast;
 
 public class MainActivity extends Activity
-implements OnDialogDoneListener
+implements OnDialogDoneListener, NoticeDialogListener
 {
 	public static final String
     LOGTAG = "DialogFragDemo";
@@ -57,9 +58,15 @@ implements OnDialogDoneListener
     	case R.id.menu_help:
     		this.testHelpDialog();
     		break;
+		case R.id.menu_custom_alert:
+			this.testCustomAlertDialog();
+			break;
     	case R.id.menu_embedded:
     		this.testEmbeddedDialog();
     		break;
+			case R.id.menu_timepicker:
+				this.testTimePicker();
+				break;
     	}
     	return true;
     }
@@ -75,6 +82,24 @@ implements OnDialogDoneListener
     	
     	adf.show(ft, ALERT_DIALOG_TAG);
     }
+
+	private void testCustomAlertDialog(){
+		FragmentTransaction ft =
+				getFragmentManager().beginTransaction();
+
+		CustomAlertDialogFragment cadf =new CustomAlertDialogFragment();
+
+		cadf.show(ft, ALERT_DIALOG_TAG);
+	}
+
+	private void testTimePicker(){
+		FragmentTransaction ft =
+				getFragmentManager().beginTransaction();
+
+		TimePickerFragment tpf =new TimePickerFragment();
+
+		tpf.show(ft, ALERT_DIALOG_TAG);
+	}
 
 	private void testPromptDialog()
     {
@@ -118,5 +143,13 @@ implements OnDialogDoneListener
 			s = tag + " was cancelled by the user";
 		Toast.makeText(this, s, Toast.LENGTH_LONG).show();
 		Log.v(LOGTAG, s);
+	}
+
+	public void onDialogPositiveClick(DialogFragment dialog) {
+		Toast.makeText(this, "Positive", Toast.LENGTH_SHORT).show();
+	}
+
+	public void onDialogNegativeClick(DialogFragment dialog) {
+		Toast.makeText(this, "Negative", Toast.LENGTH_SHORT).show();
 	}
 }

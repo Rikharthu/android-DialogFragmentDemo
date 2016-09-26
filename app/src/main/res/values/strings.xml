@@ -21,4 +21,9 @@ Here is more help text that could be displayed to the user in
 a dialog. When the user clicks the Close button, the previous
 dialog is re-displayed to them.
 </string>
+    <string name="app_name">logo</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signin">Sign In</string>
+    <string name="cancel">Cancel</string>
 </resources>

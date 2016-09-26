@@ -2,5 +2,9 @@
     {
         "merged": "D:\\Workspace\\Android\\ProAndroid5\\DialogFragmentDemo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
         "source": "D:\\Workspace\\Android\\ProAndroid5\\DialogFragmentDemo1\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\Android\\Samples\\android-DialogFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "C:\\Workspace\\Android\\Samples\\android-DialogFragmentDemo\\app\\src\\main\\res\\menu\\menu.xml"
     }
 ]

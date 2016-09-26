@@ -17,5 +17,10 @@ xmlns:android="http://schemas.android.com/apk/res/android">
         <item android:id="@+id/menu_embedded"
             android:title="Show Embedded Prompt Dialog"/>
 
+        <item android:id="@+id/menu_custom_alert"
+              android:title="Show Alert Dialog With Custom Layout"/>
+        <item android:id="@+id/menu_timepicker"
+              android:title="Show Time Picker Dialog"/>
+
     </group>
 </menu>

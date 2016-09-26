@@ -45,5 +45,131 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "C:\\Workspace\\Android\\Samples\\android-DialogFragmentDemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "C:\\Workspace\\Android\\Samples\\android-DialogFragmentDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 612,
+                        "endColumn": 41,
+                        "endOffset": 649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 41,
+                    "endOffset": 134
+                },
+                "from": {
+                    "file": "C:\\Workspace\\Android\\Samples\\android-DialogFragmentDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 793,
+                        "endColumn": 41,
+                        "endOffset": 830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 139,
+                    "endLine": 8,
+                    "endColumn": 9,
+                    "endOffset": 326
+                },
+                "from": {
+                    "file": "C:\\Workspace\\Android\\Samples\\android-DialogFragmentDemo\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 331,
+                    "endLine": 24,
+                    "endColumn": 9,
+                    "endOffset": 676
+                },
+                "from": {
+                    "file": "C:\\Workspace\\Android\\Samples\\android-DialogFragmentDemo\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 681,
+                    "endColumn": 45,
+                    "endOffset": 722
+                },
+                "from": {
+                    "file": "C:\\Workspace\\Android\\Samples\\android-DialogFragmentDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 702,
+                        "endColumn": 45,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 727,
+                    "endColumn": 42,
+                    "endOffset": 765
+                },
+                "from": {
+                    "file": "C:\\Workspace\\Android\\Samples\\android-DialogFragmentDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 749,
+                        "endColumn": 42,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 770,
+                    "endColumn": 45,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "C:\\Workspace\\Android\\Samples\\android-DialogFragmentDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 655,
+                        "endColumn": 45,
+                        "endOffset": 696
+                    }
+                }
+            }
+        ]
     }
 ]

@@ -2,5 +2,9 @@
     {
         "merged": "D:\\Workspace\\Android\\ProAndroid5\\DialogFragmentDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
         "source": "D:\\Workspace\\Android\\ProAndroid5\\DialogFragmentDemo1\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Workspace\\Android\\Samples\\android-DialogFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Workspace\\Android\\Samples\\android-DialogFragmentDemo\\app\\src\\main\\res\\drawable\\icon.png"
     }
 ]
