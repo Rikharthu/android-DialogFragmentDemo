@@ -79,6 +79,8 @@ implements View.OnClickListener
         return v;
     }
 
+
+
     @Override
     public void onCancel(DialogInterface di) {
     	Log.v(MainActivity.LOGTAG, "in onCancel() of PDF");
@@ -93,7 +95,8 @@ implements View.OnClickListener
 
     public void onClick(View v) 
 	{
-		// FIXME zachem zdes eshe raz?
+		// FIXME zachem zdes eshe raz?\
+		// ibo tut mi zname, cto aktivnost uze susestvuet
 		OnDialogDoneListener act = (OnDialogDoneListener)getActivity();
 		if (v.getId() == R.id.btn_save)
 		{
